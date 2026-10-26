@@ -1,0 +1,8 @@
+,value
+total_transactions,20050.0
+total_value,218812963.0
+exception_rate_pct,3.07
+ml_anomaly_rate_pct,3.0
+critical_cases,92.0
+high_cases,211.0
+audit_coverage_pct,100.0

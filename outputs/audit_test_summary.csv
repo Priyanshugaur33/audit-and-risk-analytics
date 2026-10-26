@@ -1,0 +1,10 @@
+test,exceptions
+T01_missing_fields,110
+T02_nonpositive_amount,40
+T03_duplicate,50
+T04_maker_checker,100
+T05_large_txn,120
+T06_structuring,103
+T07_offhours_large,147
+T08_foreign_high_value,10
+T09_velocity,0
