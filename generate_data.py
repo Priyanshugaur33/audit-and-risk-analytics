@@ -1,8 +1,3 @@
-"""Generate a synthetic banking-transaction dataset (20,000 rows) with injected audit issues.
-
-Your original data is lost, so this recreates a realistic stand-in. Anomalies are injected on
-purpose so the audit tests and the ML model have something real to find.
-"""
 import numpy as np
 import pandas as pd
 
