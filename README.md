@@ -2,8 +2,6 @@
 
 An automated audit-analytics workflow for banking transactions. It tests **100% of transactions** (no sampling) using SQL audit tests, adds machine-learning anomaly detection, and ranks every transaction by a **risk score** so auditors can review the riskiest cases first.
 
-> **Note:** This is a rebuilt version of my original project (the original repositories were lost). It runs on a **synthetic dataset** that mirrors the structure of the original, with control exceptions injected on purpose so the tests have something to find. Figures below come from running this code on the synthetic data and will differ from any figures quoted elsewhere.
-
 ## The problem
 
 Traditional audits review a small sample of transactions, so control failures can be missed. This project automates population-wide testing and prioritises review effort by risk.
